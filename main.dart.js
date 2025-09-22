@@ -36960,7 +36960,7 @@ h=$.bw().gbZ()
 return A.id(A.aC0(A.W3(A.b([new A.bQ(c,30*q,c,c),p,new A.bQ(c,30*o,c,c),n,new A.bQ(c,5*m,c,c),l,new A.bQ(c,25*k,c,c),j,new A.bQ(c,5*i,c,c),e,new A.bQ(c,10*f,c,c),new A.hj(B.yv,c,c,A.l5(c,A.j7(B.l.lI(0.7),13*h,B.x,"Forgot Password?"),B.a8,!1,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c),c),new A.bQ(c,40*$.bw().gbZ(),c,c),new A.EU("Sign in",15*$.bw().gbZ(),B.eP,B.k,new A.afr(d),c),new A.bQ(c,40*$.bw().gbZ(),c,c)],t.E),B.cd,B.e4,B.e5),!0),B.A,c,new A.cQ(B.k,c,c,r,c,c,B.ah),c,new A.aN(b,b,b,b),new A.aN(s,s,s,s),c)}}
 A.afs.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k,j,i=null
-if(b.b>1300){s=$.bw().gbZ()
+if(b.b>1000){s=$.bw().gbZ()
 r=A.j7(B.k,30*$.bw().gbZ(),B.bY,"Welcome to Auto Seller OMS")
 q=$.bw().gbZ()
 p=$.bw().giR()
